@@ -1,0 +1,20 @@
+{
+  "name": "school-equipment-system",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.1.0",
+    "framer-motion": "^12.38.0",
+    "html5-qrcode": "^2.3.8",
+    "lucide-react": "latest",
+    "next": "latest",
+    "qrcode.react": "^4.2.0",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
